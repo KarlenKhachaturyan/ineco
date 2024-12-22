@@ -73,7 +73,8 @@ td {
 header {
   display: flex;
   justify-content: space-between;
-  padding: 30.5px 40px;
+  padding: 30.5px 70px;
+  align-items: center;
   border-bottom: 1px solid rgb(199, 199, 199);
 
   & a {
