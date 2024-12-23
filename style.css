@@ -99,11 +99,9 @@ header {
     letter-spacing: 0.5px;
     text-align: left;
 
-    @media (max-width: 570px) {
+    @media (max-width: 1080px) {
       & {
-        padding: 15px 30px;
-        font-size: 12px;
-        height: 20px;
+        display: none;
       }
     }
   }
